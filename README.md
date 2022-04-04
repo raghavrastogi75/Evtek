@@ -5,7 +5,7 @@ Complete documented notebook for assessment - Instance segmentation plastic bott
 
 Please note : Try to reload the "Instance segmentation plastic bottles" file in githug incase it shows that the notebook is too heavy for rendering.
 
-Will have to clone the following git:https://github.com/pytorch/vision.git
-This is present already in the code file
+Will have to clone the following git:https://github.com/pytorch/vision.git as a requirement for Instance segmentation plastic bottles.ipynb
+This is present already as a command
 
 
