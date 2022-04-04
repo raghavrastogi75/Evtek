@@ -8,5 +8,5 @@ Please note : Try to reload the "Instance segmentation plastic bottles" file in 
 Will have to clone the following git:https://github.com/pytorch/vision.git as a requirement for Instance segmentation plastic bottles.ipynb
 This is present already as a command
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TTjwjvQQTC4X6UjnNW7FihuPgxybNl31?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raghavrastogi75/Evtek/blob/main/Instance_segmentation_plastic_bottles_evtek_solution.ipynb)
 
